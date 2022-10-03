@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline CSS</title>
+</head>
+<body>
+    <h1 style="color: rgb (40, 87, 128);background-color: blueviolet;">BELAJAR HTML</h1>
+    <P style="color: rgb (66, 98, 241);font-size:medium;">Mempelajari inline css merupakan background, heading 1 
+    dan warna untuk paragraf</P>
+    <p style="color: red;">paragraf ini berwarna merah</p>
+    <p style="font-size:20px">ukuran paragraf ini 20px</p>
+    <p style="color: rgb (15, 245, 15);">paragraf ini berwarna hijau</p>
+    <p style="color: rgb (44, 247, 44);font-size:20px;">ukuran paragraf ini 20px dan berwarna hijau</p>
+</body>
+</html>
