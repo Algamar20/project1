@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: blue;
+}
+p {
+    color: red;
+}
