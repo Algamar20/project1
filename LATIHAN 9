@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <style>
+            h1, h2, p {
+                text-align: center;
+                color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Hallo world</h1>
+        <h2>smaller heading</h2>
+        <p>this is my paragraf</p>
+    </body>
+</html>
