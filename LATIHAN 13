@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        p::first-line {
+            color: magenta;
+        }
+    </style>
+</head>
+<body>
+    <p>ini adalah paragraf yang cukup panjang. sengaja di buat panjang agar bisa 
+        dipakai sebagai contoh selektor pseudo-element. pseude-element adalah
+        selektor yang memilih element semu. Element semu yang saya maksud disini
+        adalah element yang seolah-olah kita tambahkan di HTML
+    </p>
+</body>
+</html>
