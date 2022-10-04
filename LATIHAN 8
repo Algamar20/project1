@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <style>
+                        .center {
+                text-align: center;
+                color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="center">huruf warna merah dan rata tengah</h1>
+        <p class="center">paragraf warna merah dan rata tengah</p>
+    </body>
+</html>
